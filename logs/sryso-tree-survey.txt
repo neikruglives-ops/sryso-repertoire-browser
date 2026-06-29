@@ -1,0 +1,167 @@
+SRYSO TREE SURVEY
+Source root: /Users/isaaclevine/SRYSO-Repertoire-Project/scripts/../SRYSO-Student-Folders
+
+=== 2023-3-Fall ===
+  [CANDIDATE] 1812 Overture
+      PDFs: 12 | MSCZ: 1 | Subdirs: 2
+        [subdir] 1812-NEW-PARTS-10-29
+        [skip?] OLD-PARTS
+  [CANDIDATE] Mia & Sebastian_s Theme
+      PDFs: 6 | MSCZ: 1 | Subdirs: 0
+  [IGNORED] Recordings
+      PDFs: 0 | MSCZ: 0 | Subdirs: 6
+        [subdir] 2023-10-10
+        [subdir] 2023-10-30
+        [subdir] 2023-11-06
+        [subdir] 2023-11-13
+        [subdir] 2023-11-27
+        [subdir] Recordings.10-23
+  [IGNORED] Seating-Charts
+      PDFs: 0 | MSCZ: 0 | Subdirs: 0
+
+=== 2024-1-Winter ===
+  [CANDIDATE] Brandenburg-3-Bach
+      PDFs: 11 | MSCZ: 0 | Subdirs: 1
+        [subdir] ORIG-PARTS-&-XML-FILES
+  [CANDIDATE] Habanera-Bizet
+      PDFs: 5 | MSCZ: 0 | Subdirs: 0
+  [IGNORED] Rehearsal-Recordings
+      PDFs: 0 | MSCZ: 0 | Subdirs: 0
+  [IGNORED] Seating-Chart
+      PDFs: 1 | MSCZ: 0 | Subdirs: 0
+  [CANDIDATE] Wishing-Ffrench
+      PDFs: 10 | MSCZ: 1 | Subdirs: 1
+        [skip?] OLD-PARTS
+
+=== 2024-2-Spring ===
+  [CANDIDATE] Bach - Air on the G String
+      PDFs: 6 | MSCZ: 1 | Subdirs: 0
+  [CANDIDATE] Mozart -Eine Kleine Nachtmusik
+      PDFs: 3 | MSCZ: 1 | Subdirs: 0
+  [CANDIDATE] Naruto - Sadness & Sorrow
+      PDFs: 4 | MSCZ: 1 | Subdirs: 0
+  [IGNORED] Recordings
+      PDFs: 0 | MSCZ: 0 | Subdirs: 0
+  [IGNORED] Seating-Charts-Etc
+      PDFs: 1 | MSCZ: 0 | Subdirs: 0
+
+=== 2024-3-Fall ===
+  [CANDIDATE] Corelli-xmas-cto
+      PDFs: 12 | MSCZ: 0 | Subdirs: 2
+        [subdir] Corelli-seating-chart
+        [subdir] Xmas-Cto-Cello-Viola
+  [CANDIDATE] Finlandia
+      PDFs: 10 | MSCZ: 1 | Subdirs: 1
+        [subdir] VERSION-1
+  [CANDIDATE] Mozart-40
+      PDFs: 13 | MSCZ: 1 | Subdirs: 1
+        [skip?] DO-NOT-USE--VERSION-1
+  [IGNORED] Rehearsal Recordings
+      PDFs: 0 | MSCZ: 0 | Subdirs: 0
+  [IGNORED] Seating-Charts-Etc
+      PDFs: 1 | MSCZ: 0 | Subdirs: 0
+  [CANDIDATE] Up-Theme-Married-Life
+      PDFs: 7 | MSCZ: 0 | Subdirs: 0
+
+=== 2025-1-Winter ===
+  [CANDIDATE] Jurassic-Park
+      PDFs: 6 | MSCZ: 1 | Subdirs: 0
+  [CANDIDATE] Queen-of-Night-Mozart
+      PDFs: 9 | MSCZ: 1 | Subdirs: 1
+        [subdir] Mila_s Work
+  [IGNORED] Rehearsal-recordings
+      PDFs: 0 | MSCZ: 0 | Subdirs: 0
+  [IGNORED] SEATING-CHART
+      PDFs: 2 | MSCZ: 0 | Subdirs: 0
+  [CANDIDATE] Vivaldi-Cto-RV-565 (Chamber Group ONLY)
+      PDFs: 7 | MSCZ: 1 | Subdirs: 0
+
+=== 2025-2-Spring ===
+  [CANDIDATE] Djawadi-Game-Thrones
+      PDFs: 5 | MSCZ: 1 | Subdirs: 2
+        [subdir] Violin-2-B-PARTS-HERE
+  [CANDIDATE] Rossini-William-Tell
+      PDFs: 7 | MSCZ: 1 | Subdirs: 2
+        [subdir] Violin-2-B-PARTS-HERE
+  [IGNORED] SEATING-CHARTS
+      PDFs: 2 | MSCZ: 0 | Subdirs: 0
+  [CANDIDATE] Saint-Saens-Symph-3-Mvt-2
+      PDFs: 7 | MSCZ: 0 | Subdirs: 2
+        [subdir] Violin-2-B-PARTS-HERE
+  [CANDIDATE] Vivaldi-Cto-RV-522 (Chamber Group ONLY)
+      PDFs: 7 | MSCZ: 1 | Subdirs: 1
+        [subdir] SOURCE-MATERIALS
+
+=== 2025-3-Fall ===
+  [CANDIDATE] ALPHA_ 2025 Fall SRYSO
+      PDFs: 29 | MSCZ: 2 | Subdirs: 8
+        [subdir] 1812 Overture
+        [subdir] Brandenburg-3-Bach
+        [subdir] Mia & Sebastian_s Theme
+        [subdir] Recordings
+        [subdir] SEATING-CHARTS
+  [CANDIDATE] OMEGA_ 2025 Fall SRYSO
+      PDFs: 20 | MSCZ: 0 | Subdirs: 7
+        [subdir] Dvorak-Serenade-Waltz
+        [subdir] Eroica
+        [subdir] Holberg-Suite-Prelude
+        [subdir] Jingle Bells
+        [subdir] Recordings
+        [subdir] SEATING-CHARTS
+        [subdir] The Crown
+  [CANDIDATE] PRE-ORCHESTRA_ 2025 Fall SRYSO
+      PDFs: 7 | MSCZ: 0 | Subdirs: 3
+        [subdir] Judas-Maccabaeus
+        [subdir] Musette
+        [subdir] SEATING
+
+=== 2026-1-Winter ===
+  [CANDIDATE] ALPHA_ 2026 Winter SRYSO
+      PDFs: 23 | MSCZ: 2 | Subdirs: 9
+        [subdir] ALPHA-BOWINGS-VERY-LIMITED-AS-YET
+        [subdir] ALPHA-RECORDINGS-2026-01-19
+        [subdir] Jupiter-Hymn-Holst
+        [subdir] SEATING-CHARTS
+        [subdir] Swan-Lake-Tchaikovsky
+        [subdir] Wishing-Ffrench
+  [CANDIDATE] OMEGA_ 2026 Winter SRYSO
+      PDFs: 24 | MSCZ: 4 | Subdirs: 10
+        [subdir] Bartok-Romanian-Dances
+        [subdir] Howls-Moving-Castle
+        [subdir] OMEGA-RECORDINGS-2026-01-19
+        [subdir] Rachmaninoff-Prelude
+        [subdir] SEATING-CHARTS
+  [CANDIDATE] PRE-ORCHESTRA
+      PDFs: 3 | MSCZ: 0 | Subdirs: 1
+        [subdir] Musette
+  [CANDIDATE] SRYSO-SCALES
+      PDFs: 4 | MSCZ: 0 | Subdirs: 0
+
+=== 2026-2-Spring ===
+  [CANDIDATE] ALPHA_ 2026 Spring SRYSO
+      PDFs: 21 | MSCZ: 2 | Subdirs: 7
+        [subdir] ALPHA-SEATING-SPRING-2026
+        [subdir] Eine-Kleine-Nachtmusik
+        [subdir] Interstellar
+        [subdir] Star-Wars-Main-Theme
+  [CANDIDATE] INTERSTELLAR-JOINT-REHEARSAL-ETC
+      PDFs: 0 | MSCZ: 0 | Subdirs: 0
+  [CANDIDATE] OMEGA_ 2026 Spring SRYSO
+      PDFs: 42 | MSCZ: 5 | Subdirs: 10
+        [subdir] BRANDENBURG-SEATING-2026
+        [subdir] Brandenburg-3-Mvt-3
+        [subdir] Kikis-Delivery-Service
+        [subdir] OMEGA-SEATING-SPRING-2026
+        [subdir] Tchaikovsky-Andante
+  [IGNORED] SEATING
+      PDFs: 1 | MSCZ: 0 | Subdirs: 0
+
+=== MUSESCORE-MSCZ-FILES ===
+  [CANDIDATE] 2025-SPRING
+      PDFs: 0 | MSCZ: 6 | Subdirs: 2
+        [subdir] ISAAC-REWRITES
+        [subdir] JAMES-ORIG
+  [CANDIDATE] 2025-WINTER
+      PDFs: 0 | MSCZ: 2 | Subdirs: 2
+        [subdir] Score-Originals-James
+

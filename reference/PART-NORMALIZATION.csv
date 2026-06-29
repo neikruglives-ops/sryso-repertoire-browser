@@ -1,0 +1,69 @@
+PATTERN,PART,COMMENTS
+Violin III Ripieno,VN-3,normalize ripieno to section part
+Violin II Ripieno,VN-2,normalize ripieno to section part
+Violin I Ripieno,VN-1,normalize ripieno to section part
+Violin III Solo,VN-3-SOLO,concertino / solo line
+Viola-Vn-2-Rip,VA-VN-2-RIP,Violin 2 Ripieno transcribed for viola
+Violin II Solo,VN-2-SOLO,concertino / solo line
+Violin I Solo,VN-1-SOLO,concertino / solo line
+Violin-1-Solo,VN-1-SOLO,concertino / solo line
+Violin-2-Solo,VN-2-SOLO,concertino / solo line
+Violin-3-Solo,VN-3-SOLO,concertino / solo line
+Violin-1-Rip,VN-1,normalize ripieno to section part
+Violin-2-Rip,VN-2,normalize ripieno to section part
+Violin-3-Rip,VN-3,normalize ripieno to section part
+VIOLIN-SOLO,VN-1-SOLO,default orchestral violin solo to concertmaster / VN-1 leader
+Violin Solo,VN-1-SOLO,default orchestral violin solo to concertmaster / VN-1 leader
+Violin-Solo,VN-1-SOLO,default orchestral violin solo to concertmaster / VN-1 leader
+Violins 2-4,VN-2-4,combined partial score / shared part
+Violins-2-4,VN-2-4,combined partial score / shared part
+Cello Solo,VC-SOLO,solo cello line
+Violoncello-2,VC-2,
+Vibraphone-1,VIB-1,
+Vibraphone-2,VIB-2,
+Cello-Viola,VC-FROM-VA,viola part transcribed for cello
+Violins_2_4,VN-2-4,combined partial score / shared part
+2nd Violin,VN-2,
+2nd-Violin,VN-2,
+3rd Violin,VN-3,
+Violin III,VN-3,
+Cello III,VC-3,
+Violin II,VN-2,
+Violin-2B,VN-2B,
+Violins-1,VN-1,
+Violins-2,VN-2,
+Violins_1,VN-1,
+Violins_2,VN-2,
+Cello II,VC-2,
+Cello II,VC-2,
+VIOLIN-1,VN-1,
+VIOLIN-2,VN-2,
+VIOLIN-3,VN-3,
+Violin 1,VN-1,
+Violin 2,VN-2,
+Violin 3,VN-3,
+Violin I,VN-1,
+Violin I,VN-1,
+CELLO-1,VC-1,
+CELLO-2,VC-2,
+Cello I,VC-1,
+Cello I,VC-1,
+Cello-1,VC-1,
+Cello-2,VC-2,
+Viola-1,VA-1,
+Viola-2,VA-2,
+Viola-3,VA-3,
+Cellos,VC,
+Violas,VA,
+Basso,VC,
+Vln-2,VN-2,
+Vc-1,VC-1,
+Vc-2,VC-2,
+Vla,VA,
+CELLO,VC,
+Cello,VC,
+Piano,PF,
+VIOLA,VA,
+Viola,VA,
+Bass,DB,
+SCORE,SCORE,
