@@ -14,6 +14,51 @@ The SRYSO repository consists of a few complementary components:
 
 3. Google Drive also hosts the human-facing and admin-editable SRYSO-Repertoire-Library spreadsheet.
 
+# Components
+
+The SRYSO repository consists of several complementary components:
+
+1. **Git Repository (hosted on GitHub)**
+
+   Stores the repository itself, including:
+
+   - `data/`
+   - `reference/`
+   - `scripts/`
+   - `documents/`
+   - `documentation/`
+   - `logs/`
+
+   The GitHub repository preserves the project's architecture, metadata, normalization tables, scripts, documentation, and audit history.
+
+2. **Google Drive PDF Library**
+
+   Stores the canonical PDF repository:
+
+   ```
+   PDFs/
+       Composer/
+           Work/
+               CURRENT/
+               Versions/
+               Arrangements/
+   ```
+
+   PDF files are intentionally excluded from Git.
+
+3. **Google Sheets**
+
+   Hosts the collaborative, human-editable
+   `SRYSO-Repertoire-Library` spreadsheet.
+
+   The spreadsheet is periodically exported and committed as
+
+   `data/SRYSO-Repertoire-Library.csv`
+
+   so that the repository always contains a canonical, version-controlled copy.
+
+# Canonical directory layout
+
 The canonical directory layout for a work is:
 
 ```
