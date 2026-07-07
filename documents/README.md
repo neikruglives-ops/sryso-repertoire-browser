@@ -9,7 +9,7 @@ Each document has a distinct purpose.
 | ARCHITECTURE.md | Why is the repository designed this way? |
 | DIRECTORY-CONVENTIONS.md | Where does everything live? |
 | REPOSITORY-CONVENTIONS.md | How do we name and catalog things? |
-| MIGRATION-PLAN.md | How did we get here, and how do we continue migrating? |
+| MIGRATION-WORKFLOW.md | How did we get here, and how do we continue migrating? |
 
 The goal of this documentation is not to duplicate the implementation.
 
